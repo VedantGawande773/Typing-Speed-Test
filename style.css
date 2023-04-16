@@ -9,10 +9,10 @@
   }
   
   a{
-    color: #52575d;
+    color: black;
   }
   .yellow{
-    color: #ffd369;
+    color: #efaa08;
   }
   .correct{
     color: #29bb89;
@@ -22,7 +22,7 @@
     text-decoration: underline;
   }
   .current{
-    color: #eeeeee;
+    color: rgb(0, 0, 0);
   }
   .center{
     text-align: center;
@@ -102,11 +102,11 @@
   }
   
   textarea{
-    background: #212121;
+    background: white;
     border: solid, #52575d;
     border-width: 2px;
     border-radius: 10px;
-    color: #eeeeee;
+    color: #212121;
     padding: 10px;
     font-size: 1.2rem;
     resize: none;
