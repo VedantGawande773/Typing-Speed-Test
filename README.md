@@ -30,15 +30,11 @@ The Typing Speed Test website is an online platform that allows users to test an
 
 To run the Typing Speed Test website locally, follow these steps:
 
-Clone this repository:
-```
-  git clone https://github.com/VedantGawande773/Typing-Speed-Test.git
-```
-Navigate to the project directory:
-```bash
-cd typingspeedtest 
-```
-Open the ``` index.html ``` file in your web browser.
+- Clone this repository:  git clone https://github.com/VedantGawande773/Typing-Speed-Test.git`
+
+- Navigate to the project directory: cd typingspeedtest 
+ 
+- Open the index.html file in your web browser.
 
 ## Contributing
 
