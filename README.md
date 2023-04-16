@@ -19,6 +19,11 @@ The Typing Speed Test website is an online platform that allows users to test an
 2. Type the text passage as accurately and quickly as possible.
 3. Once the passage is complete, the website displays your typing speed and accuracy results.
 
+## Demo
+
+- You can visit website here:   
+### https://vedantgawande773.github.io/Typing-Speed-Test/#
+
 
 
 ## Installation
